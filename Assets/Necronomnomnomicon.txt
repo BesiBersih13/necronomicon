@@ -1,0 +1,18 @@
+[NECRONOMNOMNOMICON]
+
+PlayerCharacter #1 : https://pastebin.com/sShvQ9mw
+PlayerCharacter #2 : https://pastebin.com/xRvcf4Z6
+PlayerCharacter #3 : https://pastebin.com/QJneHn8s
+PlayerCharacter #4 : https://pastebin.com/2nRpmrsh
+
+FollowCamera : https://pastebin.com/NaH3t5UW
+
+AreaTrigger : https://pastebin.com/YWAbLHnC
+AreaVisualizer : https://pastebin.com/1XjCZbs1
+
+Coin : https://pastebin.com/gdcC71bM
+
+DeathZone : https://pastebin.com/r1Xjt4Ya
+
+Goal : https://pastebin.com/PFjcTLqq
+
